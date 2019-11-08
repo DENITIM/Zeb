@@ -18,7 +18,7 @@ class Den:
        return self.distribution(self.getInf())
 den = Den()
 print(den.go())
-#TIMOF
+#ethdhhf
 
 
 
